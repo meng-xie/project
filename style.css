@@ -1,0 +1,110 @@
+body{
+background-color: black;
+margin: 0;
+}
+.box{
+  width: 50%;
+  height: 60px;
+  margin: 150px  150px  150px  450px;
+  background-color: orange;
+  position: absolute;
+  z-index: 1;
+}
+
+.box li{
+  display: inline-block;
+  float: right;
+  padding: 10px;
+  color: white;
+  font-size: 10px;
+}
+
+.box2{
+  width: 50%;
+  height: 260px;
+  margin: 210px  0  150px  450px;
+  background-color: #f8f8f8;
+  position: absolute;
+}
+
+.box2 input{
+float: right;
+width: 150px;
+position: relative;
+margin-top: 3px;
+margin-right: 40px;
+}
+.mybt1{
+  float: right;
+  position: absolute;
+  margin-top: 3px;
+  margin-left: 320px;
+}
+
+img{
+  width: 200px;
+  height: 160px;
+  position: relative;
+  margin-top: 40px;
+  margin-left: 50px;
+}
+p{
+  color: orange;
+ float: right;
+ position: relative;
+ margin-top: 60px;
+ font-size: 20px;
+ margin-right: -150px;
+ padding: 30px;
+}
+
+.myfont2{
+  color: blue;
+}
+
+.mybt2{
+  position: relative;
+  margin-top: 180px;
+  font-size: 8px;
+margin-right: -145px;
+  float: right;
+color: white;
+  border: none;
+
+  background-color: orange;
+  display: inline-block;
+
+  padding-left: 28px;
+    padding-right:  28px;
+      padding-top:  12px;
+        padding-bottom:   12px;
+}
+
+.mybt3{
+
+  background-color: #7accc8;
+  position: relative;
+  margin-top: 180px;
+  font-size: 8px;
+margin-right: -315px;
+  float: right;
+color: white;
+  border: none;
+
+  display: inline-block;
+
+  padding-left: 20px;
+    padding-right:  20px;
+      padding-top:  12px;
+        padding-bottom:   12px;
+}
+
+.box3{
+  background-color: #7accc8;
+  float: right;
+  width: 50%;
+  height: 40px;
+  position: relative;
+  margin-top: 470px;
+  margin-right: 182px;
+}
